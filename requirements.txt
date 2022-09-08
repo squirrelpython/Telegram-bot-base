@@ -1,0 +1,11 @@
+# Telegram
+git+https://github.com/python-telegram-bot/python-telegram-bot.git@v13.x
+
+# Database
+git+https://github.com/squirrelpython/pymodm.git
+sqlalchemy
+
+# Others
+python-dotenv
+requests
+pyyaml
